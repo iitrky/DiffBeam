@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Generative Diffusion Posterior Sampling for Pilot Efficient Near Field Beam Training in Extremely Large Scale MIMO Systems"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Department of Computer Science and Engineering, Saveetha Engineering College, Chennai, India"
+version: 1.0.0
+date-released: 2026-10-02
+license: MIT
+repository-code: "https://github.com/iitrky/DiffBeam"
